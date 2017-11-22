@@ -1,0 +1,4 @@
+the first string: java, C++ 
+the second string: geometria analitit
+the third string, other new string
+the fourth string
